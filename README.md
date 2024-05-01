@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gourav Mandal</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-- 🔭 I’m currently working on **ISTE**
+- 🔭 I’m currently working on NASA
 
 - 🌱 I’m currently learning **GIT & GIT HUB**
 
